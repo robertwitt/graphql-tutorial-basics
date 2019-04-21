@@ -27,7 +27,7 @@ const resolvers = {
             return null
         },
         inStock() {
-            return false
+            return true
         }
     }
 }
